@@ -1,0 +1,9 @@
+class SimpleProgram {
+    public static void main(String[] args) {
+        int a = 10;      // declaring a variable
+        int b = 20;      // declaring another variable
+        int sum = a + b; // adding the numbers
+
+        System.out.println("Sum = " + sum); // printing output
+    }
+}
